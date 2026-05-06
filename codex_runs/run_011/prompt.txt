@@ -1,0 +1,8 @@
+Read these files:
+- 1d58678cdf1d2e9ebec37ee121a7a31f873d96d21ba81108b037f86c2bf84975b9f4c704e440d4cd3d01b70c5c0e28c6613348150b6fd5e740f69d6ee7b98ccf.csv
+- traffic_citations.js
+
+Question:
+Which year in Q1 shows an unusually low number of total citations?
+
+Answer only the question.

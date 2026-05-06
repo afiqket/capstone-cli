@@ -1,0 +1,5 @@
+﻿id,title,question,run_dir,status,answer,error
+1,ia_commentary_july_2023,What percentage of applicants received a decision in under 6 months?,C:\Users\Lenovo\Documents\Code\FYP\capstone-cli\codex_runs\run_001,ok,59%,
+2,ia_commentary_july_2023,Which has a higher share: 1–1.5 years or 1.5–2 years?,C:\Users\Lenovo\Documents\Code\FYP\capstone-cli\codex_runs\run_002,ok,1 year to under 1.5 years,
+3,percent_of_dc_workers_who_are_immigrants_by_occupation,Do low-wage jobs tend to have higher immigrant percentages than high-wage jobs?,C:\Users\Lenovo\Documents\Code\FYP\capstone-cli\codex_runs\run_003,ok,"Yes. Low-wage jobs generally have higher immigrant percentages than high-wage jobs, though there are some exceptions.",
+4,percent_of_dc_workers_who_are_immigrants_by_occupation,Which occupation has an unexpectedly high immigrant percentage compared to its wage category?,C:\Users\Lenovo\Documents\Code\FYP\capstone-cli\codex_runs\run_004,ok,Carpenters,

@@ -1,0 +1,30 @@
+From the JavaScript on that page:
+
+`main.js` is a generic chart loader. It:
+- Imports Observable’s runtime (`@observablehq/runtime`) and `csvParseRows` from `d3-dsv`.
+- Fetches `charts.csv`, populates the `Choose chart` dropdown, reads `?chart=cotton` from the URL, and dynamically imports `./charts/cotton.js`.
+- Mounts Observable notebook cells into the DOM with `Runtime`, `Library`, and `Inspector`.
+- Disposes the previous runtime when switching charts so old notebooks stop running.
+- Replaces native `<select>` elements inside rendered charts with a custom dropdown UI. The comments explicitly say this is for “screenshot-based agents,” because native select popups are unreliable in screenshots.
+
+`charts/cotton.js` is the actual chart module for the cotton page. It:
+- Exports an Observable `define(runtime, observer)` module.
+- Loads a CSV file attachment named `cotton@2.csv`.
+- Builds an interactive D3 visualization with a title dropdown.
+- Normalizes titles into categories like `production`, `consumption`, `imports`, and `exports`.
+- Uses preset country ordering and color mappings for each category.
+- Renders two linked views:
+  - a top multi-series line chart for `2000–2018`
+  - a bottom horizontal bar chart for `2017 (%)`
+- Re-renders when the internal title dropdown changes.
+
+A few concrete implementation details:
+- Default selected title is `Production`.
+- The SVG is `760px` wide and combines both charts in one canvas.
+- The y-axis label is `1,000 480lb bales`.
+- The code reads `YearNum`, `CtrName`, `Value`, and `Percent` from the CSV.
+
+Also visible from the page load:
+- The only script tag in the HTML is `main.js` as an ES module.
+- `main.js` then dynamically loads `charts/cotton.js`.
+- There’s a harmless console error for missing `favicon.ico` (404).

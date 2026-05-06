@@ -1,0 +1,8 @@
+Read these files:
+- 0feeeace7bd35a9bfff9ec703c398a6dbd4889e0dd92e677ac33457e1e669158cff61dd3b8cd40bcb1a42095497380708e68f3f5e9cb88fa58b5d8b6ef781a17.csv
+- malaysia_total_trade_with_world.js
+
+Question:
+Was trade higher in 2000 or 2010?
+
+Answer only the question.

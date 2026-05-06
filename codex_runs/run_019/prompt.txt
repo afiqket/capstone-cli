@@ -1,0 +1,8 @@
+Read these files:
+- 762b06bdc00b4c99e2ecf1319e658c9f778a28bb99802c0cf96a34e471d717a87ee3a262cec3444a948d239e15cbda271d7870952793714b22b98c58f7102e47.csv
+- geography_of_educational_attainment_in_california.js
+
+Question:
+Which county has a higher percentage of bachelor’s degrees: San Francisco or San Diego (All adults)?
+
+Answer only the question.

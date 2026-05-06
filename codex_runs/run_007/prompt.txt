@@ -1,0 +1,8 @@
+Read these files:
+- 94917c9c4468ce04221c11c44871a8af76add0d9250ca3fead3a37a738a077c85429ac3cf7ea3cb63feef81d6151addac659314f6efbb3f211566b9dbd93dbe9.csv
+- how_many_members_of_the_us_military_have_died_in_each_war.js
+
+Question:
+How has the number of deaths changed from early wars to modern wars?
+
+Answer only the question.

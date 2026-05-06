@@ -1,0 +1,8 @@
+Read these files:
+- 899584d54db2b20a3c2bbae35b5a9636cb3303fb65fef5daa2a9ee27c361ae00397d8206a8c9beae7926ac5ad7d8f072ed12e2b53bdddd331fa13c502b0969f3.csv
+- percent_of_dc_workers_who_are_immigrants_by_occupation.js
+
+Question:
+Which occupation has an unexpectedly high immigrant percentage compared to its wage category?
+
+Answer only the question.
