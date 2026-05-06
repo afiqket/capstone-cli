@@ -1,7 +1,0 @@
-- generic [ref=e2]:
-  - banner [ref=e3]:
-    - heading "Charts" [level=1] [ref=e4]
-  - generic [ref=e5]:
-    - text: "Choose chart:"
-    - combobox "Choose chart:" [ref=e6]
-  - main

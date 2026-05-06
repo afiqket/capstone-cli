@@ -1,8 +1,0 @@
-Read these files:
-- 69f09c9bfc20a238296ee6ef0c63eb805d711b43d7e39c930cba7712d6dadab00088f4178a4b58110e45cd876be74a3ce0fa8951ba80091299ae346407274c29.csv
-- ia_commentary_july_2023.js
-
-Question:
-Which has a higher share: 1–1.5 years or 1.5–2 years?
-
-Answer only the question.

@@ -1,8 +1,0 @@
-Read these files:
-- fc5a32c324e1f14e69876f73c6c4c468a2649fef8437d1542170707fd0e07a0eaf27b7a75f69df003d78e39c8b12a2e61e0d051d1830996a5b0a15d638c904b7.csv
-- international_merchandise_trade_malaysia_and_asean.js
-
-Question:
-Which country has higher trade value with Malaysia: Vietnam or Cambodia?
-
-Answer only the question.

@@ -1,8 +1,0 @@
-Read these files:
-- c17853a64279c6ad17bf1979e9f856cae7e2b05be2954859372bf041684ed65803d67c181c68e25a6ce6585d6a53c910689a427f0c6a0dc862dc62b4d2a6d2e7.csv
-- dublin_stats.js
-
-Question:
-How did Switzerland’s requests out change from 2012 to 2016?
-
-Answer only the question.

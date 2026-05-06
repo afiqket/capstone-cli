@@ -1,21 +1,21 @@
-﻿id,chartname,title,question,enabled
-1,IA commentary July 2023,ia_commentary_july_2023,What percentage of applicants received a decision in under 6 months?,1
-2,IA commentary July 2023,ia_commentary_july_2023,Which has a higher share: 1–1.5 years or 1.5–2 years?,1
-3,"Percent of D.C. Workers Who Are Immigrants, by Occupation",percent_of_dc_workers_who_are_immigrants_by_occupation,Do low-wage jobs tend to have higher immigrant percentages than high-wage jobs?,1
-4,"Percent of D.C. Workers Who Are Immigrants, by Occupation",percent_of_dc_workers_who_are_immigrants_by_occupation,Which occupation has an unexpectedly high immigrant percentage compared to its wage category?,1
-5,How Many Members of the US Military Have Died in Each War?,how_many_members_of_the_us_military_have_died_in_each_war,How many deaths occurred in the World War II?,0
-6,How Many Members of the US Military Have Died in Each War?,how_many_members_of_the_us_military_have_died_in_each_war,Which war had more deaths: Korean War or Vietnam War?,0
-7,How Many Members of the US Military Have Died in Each War?,how_many_members_of_the_us_military_have_died_in_each_war,How has the number of deaths changed from early wars to modern wars?,0
-8,Malaysia Total Trade with World,malaysia_total_trade_with_world,What is Malaysia’s total trade (% of GDP) in 1990?,0
-9,Malaysia Total Trade with World,malaysia_total_trade_with_world,Was trade higher in 2000 or 2010?,0
-10,Traffic-citations,traffic_citations,How does the percentage of speeding citations change over time in Q2?,0
-11,Traffic-citations,traffic_citations,Which year in Q1 shows an unusually low number of total citations?,0
-12,Dublin Stats,dublin_stats,What was the number of transfers out for Austria in 2017?,0
-13,Dublin Stats,dublin_stats,How did Switzerland’s requests out change from 2012 to 2016?,0
-14,Dublin Stats,dublin_stats,Is there a year where Switzerland’s transfers in suddenly increased significantly?,0
-15,International Merchandise Trade Malaysia and ASEAN,international_merchandise_trade_malaysia_and_asean,What is the total trade value (RM) between Malaysia and Indonesia?,0
-16,International Merchandise Trade Malaysia and ASEAN,international_merchandise_trade_malaysia_and_asean,Which country has higher trade value with Malaysia: Vietnam or Cambodia?,0
-17,Percent Change in Past Month Alcohol Use between 2011 and 2016 by State,percent_change_in_past_month_alcohol_use_between_2011_and_2016_by_state,How does the pattern of percent change differ between inland states and coastal states?,0
-18,Percent Change in Past Month Alcohol Use between 2011 and 2016 by State,percent_change_in_past_month_alcohol_use_between_2011_and_2016_by_state,Which state appears to be the strongest positive outlier on the map?,0
-19,Geography of Educational Attainment in California,geography_of_educational_attainment_in_california,Which county has a higher percentage of bachelor’s degrees: San Francisco or San Diego (All adults)?,0
-20,Geography of Educational Attainment in California,geography_of_educational_attainment_in_california,Which county has an unusually high percentage compared to others?,0
+﻿id,link,question,enabled
+1,https://afiqket.github.io/capstone-charts/?chart=ia_commentary_july_2023,What percentage of applicants received a decision in under 6 months?,1
+2,https://afiqket.github.io/capstone-charts/?chart=ia_commentary_july_2023,Which has a higher share: 1–1.5 years or 1.5–2 years?,1
+3,https://afiqket.github.io/capstone-charts/?chart=percent_of_dc_workers_who_are_immigrants_by_occupation,Do low-wage jobs tend to have higher immigrant percentages than high-wage jobs?,1
+4,https://afiqket.github.io/capstone-charts/?chart=percent_of_dc_workers_who_are_immigrants_by_occupation,Which occupation has an unexpectedly high immigrant percentage compared to its wage category?,1
+5,https://afiqket.github.io/capstone-charts/?chart=how_many_members_of_the_us_military_have_died_in_each_war,How many deaths occurred in the World War II?,0
+6,https://afiqket.github.io/capstone-charts/?chart=how_many_members_of_the_us_military_have_died_in_each_war,Which war had more deaths: Korean War or Vietnam War?,0
+7,https://afiqket.github.io/capstone-charts/?chart=how_many_members_of_the_us_military_have_died_in_each_war,How has the number of deaths changed from early wars to modern wars?,0
+8,https://afiqket.github.io/capstone-charts/?chart=malaysia_total_trade_with_world,What is Malaysia’s total trade (% of GDP) in 1990?,0
+9,https://afiqket.github.io/capstone-charts/?chart=malaysia_total_trade_with_world,Was trade higher in 2000 or 2010?,0
+10,https://afiqket.github.io/capstone-charts/?chart=traffic_citations,How does the percentage of speeding citations change over time in Q2?,0
+11,https://afiqket.github.io/capstone-charts/?chart=traffic_citations,Which year in Q1 shows an unusually low number of total citations?,0
+12,https://afiqket.github.io/capstone-charts/?chart=dublin_stats,What was the number of transfers out for Austria in 2017?,0
+13,https://afiqket.github.io/capstone-charts/?chart=dublin_stats,How did Switzerland’s requests out change from 2012 to 2016?,0
+14,https://afiqket.github.io/capstone-charts/?chart=dublin_stats,Is there a year where Switzerland’s transfers in suddenly increased significantly?,0
+15,https://afiqket.github.io/capstone-charts/?chart=international_merchandise_trade_malaysia_and_asean,What is the total trade value (RM) between Malaysia and Indonesia?,0
+16,https://afiqket.github.io/capstone-charts/?chart=international_merchandise_trade_malaysia_and_asean,Which country has higher trade value with Malaysia: Vietnam or Cambodia?,0
+17,https://afiqket.github.io/capstone-charts/?chart=geography_of_educational_attainment_in_california,How does the pattern of percent change differ between inland states and coastal states?,0
+18,https://afiqket.github.io/capstone-charts/?chart=geography_of_educational_attainment_in_california,Which state appears to be the strongest positive outlier on the map?,0
+19,https://afiqket.github.io/capstone-charts/?chart=geography_of_educational_attainment_in_california,Which county has a higher percentage of bachelor’s degrees: San Francisco or San Diego (All adults)?,0
+20,https://afiqket.github.io/capstone-charts/?chart=geography_of_educational_attainment_in_california,Which county has an unusually high percentage compared to others?,0
